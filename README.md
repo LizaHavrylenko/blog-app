@@ -4,8 +4,8 @@
  
  1 - Clone the project(https://github.com/LizaHavrylenko/blog-app.git)
  ```sh
-$ mkdir blog-app
-$ cd blog-app
+$ mkdir blog
+$ cd blog
 $ git clone https://github.com/LizaHavrylenko/blog-app.git 
 ```
 2 - Install dependencies  
